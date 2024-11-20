@@ -14,6 +14,10 @@ public class HelloWorld {
 		int b=90;
 		System.out.println("addition of two number is "+(a+b));
 
+		System.out.println("welcome to KK FUNDA");
+		System.out.println("====================");
+		
+
 	}
 
 	private static Date getLocalCurrentDate() {
