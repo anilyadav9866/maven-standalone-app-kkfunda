@@ -10,6 +10,9 @@ public class HelloWorld {
 
 	public static void main(String[] args) {
 		System.out.println("Hello Welcome to Maven Build Tool !! KK FUNDA !!! Today Date is:  " + getLocalCurrentDate());
+		int a=10;
+		int b=90;
+		System.out.println("addition of two number is "+(a+b));
 
 	}
 
